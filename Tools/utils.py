@@ -1,8 +1,9 @@
 import time
 import herepy
 import numpy as np
+import os
 
-HERE_API_KEY = 'hYjanuWQ92oW2KK_Um_1mmNuR7jW14th3hst9jNO_sc'  # SIGN in to HERE FIRST for freemium plan (no need for Credit card)
+HERE_API_KEY = os.environ.get('MAPS_KEY_COORD')
 
 
 def haversine_vectorized(df,
