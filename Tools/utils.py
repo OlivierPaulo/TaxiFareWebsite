@@ -59,7 +59,7 @@ def reverse_geocoder_here(coords, token=HERE_API_KEY):
     return adress
 
 
-def geocoder_here(adress, token=HERE_API_KEY):
+def geocoder_here(adress, token="hYjanuWQ92oW2KK_Um_1mmNuR7jW14th3hst9jNO_sc"):
     """
     adress: 4 Av du General de Gaulle
      ==>  {'Latitude': 48.85395, 'Longitude': 2.27758}
