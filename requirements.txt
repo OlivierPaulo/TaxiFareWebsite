@@ -1,5 +1,3 @@
 streamlit
 requests
 herepy
-datetime
-PIL
