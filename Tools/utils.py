@@ -1,6 +1,5 @@
 import time
 import herepy
-
 import numpy as np
 
 HERE_API_KEY = 'hYjanuWQ92oW2KK_Um_1mmNuR7jW14th3hst9jNO_sc'  # SIGN in to HERE FIRST for freemium plan (no need for Credit card)
