@@ -77,8 +77,7 @@ with loc_col2:
             "longitude": -73.9797156,
             "latitude": 40.6413111
         }
-        
-
+    
     dropoff_longitude = dropoff_coords['longitude']
     dropoff_latitude = dropoff_coords['latitude']
 
